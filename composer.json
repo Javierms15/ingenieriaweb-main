@@ -19,7 +19,8 @@
         "laravel/ui": "^3.4",
         "laravelcollective/html": "^6.3",
         "paypal/rest-api-sdk-php": "^1.14",
-        "vendor/package-test": "dev-master"
+        "vendor/package-test": "dev-master",
+        "mongodb/mongodb": "^1.13"
     },
     "require-dev": {
         "facade/ignition": "^2.3.6",

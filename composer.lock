@@ -2156,7 +2156,7 @@
         },
         {
             "name": "mongodb/mongodb",
-            "version": "1.12.0",
+            "version": "1.13.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mongodb/mongo-php-library.git",
